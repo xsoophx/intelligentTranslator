@@ -1,0 +1,16 @@
+# virtual environments
+.venv/
+
+# MacOS
+.DS_Store
+
+# env files
+.env
+
+# .idea
+.idea/
+!.idea/inspectionProfiles/*
+!.idea/vcs.xml
+!.idea/modules.xml
+!.idea/misc.xml
+!.idea/intelligentTranslaitor.iml
