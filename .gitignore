@@ -14,3 +14,7 @@
 !.idea/modules.xml
 !.idea/misc.xml
 !.idea/intelligentTranslaitor.iml
+
+# Python cache
+__pycache__/
+*.pyc
